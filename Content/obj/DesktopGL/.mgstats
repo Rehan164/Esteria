@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/GameCreations/SurvivalGame/Esteria/Content/04100222_adventurer-Sheetx3Flip.png","D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/04100222_adventurer-Sheetx3Flip.xnb","TextureProcessor","Texture2DContent",44421,5128285,0.2888646
+"D:/GameCreations/SurvivalGame/Esteria/Content/adventurer-Sheetx3.png","D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/adventurer-Sheetx3.xnb","TextureProcessor","Texture2DContent",44649,5128285,0.2633745
+"D:/GameCreations/SurvivalGame/Esteria/Content/StickFigure.png","D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/StickFigure.xnb","TextureProcessor","Texture2DContent",5112,1048661,0.029936

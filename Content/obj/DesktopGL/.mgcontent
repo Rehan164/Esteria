@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/GameCreations/SurvivalGame/Esteria/Content/04100222_adventurer-Sheetx3Flip.png</File>
+    <File>D:/GameCreations/SurvivalGame/Esteria/Content/adventurer-Sheetx3.png</File>
+    <File>D:/GameCreations/SurvivalGame/Esteria/Content/StickFigure.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
