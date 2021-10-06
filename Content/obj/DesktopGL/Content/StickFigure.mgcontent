@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>D:/GameCreations/SurvivalGame/Esteria/Content/StickFigure.png</SourceFile>
-  <SourceTime>2021-10-04T18:30:21.7922383-04:00</SourceTime>
-  <DestFile>D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/Content/StickFigure.xnb</DestFile>
-  <DestTime>2021-10-04T22:10:09.4131105-04:00</DestTime>
+  <SourceFile>/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/StickFigure.png</SourceFile>
+  <SourceTime>2021-10-04T09:33:16.2343001-04:00</SourceTime>
+  <DestFile>/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/bin/DesktopGL/Content/StickFigure.xnb</DestFile>
+  <DestTime>2021-10-05T09:45:33.5224536-04:00</DestTime>
   <Importer>TextureImporter</Importer>
-  <ImporterTime>2020-08-10T12:17:54-04:00</ImporterTime>
+  <ImporterTime>2020-08-10T16:17:54-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>
-  <ProcessorTime>2020-08-10T12:17:54-04:00</ProcessorTime>
+  <ProcessorTime>2020-08-10T16:17:54-04:00</ProcessorTime>
   <Parameters>
     <Key>ColorKeyColor</Key>
     <Value>255,0,255,255</Value>

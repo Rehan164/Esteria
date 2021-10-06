@@ -1,4 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"D:/GameCreations/SurvivalGame/Esteria/Content/04100222_adventurer-Sheetx3Flip.png","D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/Content/04100222_adventurer-Sheetx3Flip.xnb","TextureProcessor","Texture2DContent",44421,5128285,0.2600646
-"D:/GameCreations/SurvivalGame/Esteria/Content/adventurer-Sheetx3.png","D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/Content/adventurer-Sheetx3.xnb","TextureProcessor","Texture2DContent",44649,5128285,0.2605602
-"D:/GameCreations/SurvivalGame/Esteria/Content/StickFigure.png","D:/GameCreations/SurvivalGame/Esteria/Content/bin/DesktopGL/Content/StickFigure.xnb","TextureProcessor","Texture2DContent",5112,1048661,0.2226586
+"/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/04100222_adventurer-Sheetx3Flip.png","/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/bin/DesktopGL/Content/04100222_adventurer-Sheetx3Flip.xnb","TextureProcessor","Texture2DContent",44421,5128285,0.6778
+"/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/adventurer-Sheetx3.png","/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/bin/DesktopGL/Content/adventurer-Sheetx3.xnb","TextureProcessor","Texture2DContent",44649,5128285,0.155162
+"/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/StickFigure.png","/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/bin/DesktopGL/Content/StickFigure.xnb","TextureProcessor","Texture2DContent",5112,1048661,0.031119

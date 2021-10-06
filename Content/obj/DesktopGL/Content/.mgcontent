@@ -4,9 +4,9 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/GameCreations/SurvivalGame/Esteria/Content/04100222_adventurer-Sheetx3Flip.png</File>
-    <File>D:/GameCreations/SurvivalGame/Esteria/Content/adventurer-Sheetx3.png</File>
-    <File>D:/GameCreations/SurvivalGame/Esteria/Content/StickFigure.png</File>
+    <File>/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/04100222_adventurer-Sheetx3Flip.png</File>
+    <File>/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/adventurer-Sheetx3.png</File>
+    <File>/Users/rehan_samaratunga/Documents/2DGame/Esteria/Content/StickFigure.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

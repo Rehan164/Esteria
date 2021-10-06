@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "82yUUBhuDfJjupyrak4qlUBi/rHgvonz75wgIvSPBtTDLwjCdiIKYGIpTWzuXWUz7SH1hDE8oFgrjpEJMLwDcA==",
+  "dgSpecHash": "NqavV9B5ftQgrEO2/+Qe3mdjvlBNl99FyfHVAI86xB38B1M3YXMGXCuJY3cUDWuqVOeZ6Fmw9fnQj9JMdTGeKQ==",
   "success": true,
-  "projectFilePath": "D:\\GameCreations\\SurvivalGame\\Esteria\\Esteria.csproj",
+  "projectFilePath": "/Users/rehan_samaratunga/Documents/2DGame/Esteria/Esteria.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\rehan\\.nuget\\packages\\monogame.content.builder.task\\3.8.0.1641\\monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
-    "C:\\Users\\rehan\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.0.1641\\monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
+    "/Users/rehan_samaratunga/.nuget/packages/monogame.content.builder.task/3.8.0.1641/monogame.content.builder.task.3.8.0.1641.nupkg.sha512",
+    "/Users/rehan_samaratunga/.nuget/packages/monogame.framework.desktopgl/3.8.0.1641/monogame.framework.desktopgl.3.8.0.1641.nupkg.sha512"
   ],
   "logs": []
 }
